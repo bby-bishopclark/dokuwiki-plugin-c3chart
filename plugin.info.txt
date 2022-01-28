@@ -4,4 +4,4 @@ email  dev@jasonxu.net
 date   2014-11-02
 name   c3chart plugin
 desc   Inserts interactive data charts rendered by C3.js.
-url    https://github.com/jasonxunxu/dokuwiki-plugin-c3chart
+url    https://github.com/jxai/dokuwiki-plugin-c3chart
